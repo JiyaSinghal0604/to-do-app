@@ -15,10 +15,14 @@
 
 ### Backend
 cd backend
+
 npm install
+
 node server.js
 
 ### Frontend
 cd client
+
 npm install
+
 npm run dev
