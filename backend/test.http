@@ -1,0 +1,6 @@
+PUT http://localhost:5000/api/todos/69d14b7b4b1ac32d9d0d8fa6
+Content-Type: application/json
+
+{
+  "text": "Updated Todo"
+}
